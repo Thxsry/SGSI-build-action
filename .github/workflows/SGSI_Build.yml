@@ -9,7 +9,7 @@ on:
 env:              
   ROM_URL: https://www.coolapk.com/link?url=https%3A%2F%2Fdownload.meizu.com%2FFirmware%2FFlyme%2Fmeizu18_Pro%2F9.0.1.1%2Fcn%2F20210401154119%2F0c64275d%2Fupdate.zip
   ZIP_NAME: update.zip
-  OS_TYPE: Pixel
+  OS_TYPE: Generic
   BUILD_TYPE: 'ab'
   REPACK_NAME: flyme9.zip
   VERSION: 11
